@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Daftar Film dan Acara TV</string>
+    <string name="movies_title">Film</string>
+    <string name="tv_show_title">Acara TV</string>
+    <string name="title">Judul Film</string>
+    <string name="deskripsi_movie">Deskripsi</string>
+    <string name="year">2019</string>
+    <string name="yeartext">Tahun</string>
+    <string name="desc">Deskripsi</string>
+    <string name="change_language_settings">Ubah Bahasa</string>
+    <string name="yConfirm">Klik Ya Untuk Delete</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="alertServer">Terjadi Kesalah Server !</string>
+
+    <string name="title_favorites">Favorit</string>
+
+    <string name="hello_tvshows_fragment">Fragment Tv</string>
+    <string name="hello_movies_fragment">Film Favorit</string>
+    <string name="succesAddToFavorite">Ditambahkan Ke Favorit</string>
+    <string name="failedAddToFavorit">Gagal Menambahkan ke Favorit</string>
+    <string name="deskripsi_tvshow">Deskirpsi Tv</string>
+    <string name="tvshows_title">Judul</string>
+    <string name="titleDelete">Ingin Menghapus ?</string>
+    <string name="title_favorites_movie_tv">Film dan TV Favorit</string>
+</resources>
